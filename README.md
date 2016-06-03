@@ -6,13 +6,15 @@ There isn't much support for it in video editting software, so this script conve
 
 
 To convert all MTS files in the folder to MP4:
-'''
+
+```
 ./convertMTStoMP4.sh
-'''
+```
 
 To fix the date metadata:
-'''
+
+```
 python3 fixVideoDates.py
-'''
+```
 
 
